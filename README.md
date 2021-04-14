@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alok Mathur</h1>
-<h3 align="center">A passionate frontend developer💻 and coding enthusiast 👨‍ Always keen to learn new things📚</h3>
+<h3 align="center">A passionate frontend developer💻 and coding enthusiast 👨‍ . Always keen to learn new things📚</h3>
 
 - 🔭 I’m currently working on **new projects**
 
