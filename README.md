@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alok Mathur</h1>
 <h3 align="center">A passionate frontend developer💻 and coding enthusiast 👨‍ . Always keen to learn new things📚</h3>
 
--🎓 Pursuing B.Tech. in Computer Science with specialization in Bioinformatics from Vellore Institute of Technology, Vellore.
+*🎓 Pursuing B.Tech. in Computer Science with specialization in Bioinformatics from Vellore Institute of Technology, Vellore.
 
 - 🔭 I’m currently working on **new projects**
 
