@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alok Mathur</h1>
 <h3 align="center">A passionate frontend developer💻 and coding enthusiast 👨‍ . Always keen to learn new things📚</h3>
+<img src="https://static.vecteezy.com/system/resources/previews/000/180/396/large_2x/vector-computer-software-engineers.png" alt="Coder GIF" width="300" align="right">
 
 - 🎓 Pursuing B.Tech. in Computer Science with specialization in Bioinformatics from Vellore Institute of Technology, Vellore.
 
