@@ -38,5 +38,5 @@ border-radius="30px">
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alok27a&show_icons=true&locale=en&layout=compact" alt="alok27a" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alok27a&show_icons=true&locale=en" alt="alok27a" /></p>
