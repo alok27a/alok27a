@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alok Mathur</h1>
-<h3 align="center">A passionate frontend web developer💻,android app developer📱 and coding enthusiast 👨‍ . Always keen to learn new things📚</h3>
-<img src="https://user-images.githubusercontent.com/73957024/125926005-fdaa1677-632b-427b-a3c2-20de53a14de9.gif" alt="Coder GIF" width="400px"align="right" 
-border-radius="30px">
+<h3 align="center">A passionate frontend web developer💻,android app developer📱 and coding enthusiast 👨‍<br> Always keen to learn new things📚</h3>
 
-- 🎓 Pursuing B.Tech. in Computer Science with specialization in Bioinformatics from Vellore Institute of Technology, Vellore.
+
+- 🎓 Pursuing B.Tech. in Computer Science Engineering from Vellore Institute of Technology, Vellore.
 
 - 🔭 I’m currently working on **new projects**
 
@@ -40,7 +39,30 @@ border-radius="30px">
 
 </p>
 
+# Github Activity📊:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alok27a&show_icons=true&locale=en&layout=compact" alt="alok27a" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alok27a&show_icons=true&locale=en" alt="alok27a" /></p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=alok27a&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok27a&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=alok27a&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
+
+  </tr>
+</table>
+
+# Productivity Stats📈:
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alok27a&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://activity-graph.herokuapp.com/graph?username=alok27a&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+  </td>
+  </tr>
+</table>
+
+
+<br> 
+  
