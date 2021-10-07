@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alok Mathur</h1>
 <h3 align="center">A passionate frontend web developer💻,android app developer📱 and coding enthusiast 👨‍<br> Always keen to learn new things📚</h3>
+<img src="https://user-images.githubusercontent.com/73957024/136321450-6c2dcead-f0ce-420b-a034-b57d96a3b376.gif" alt="Coder GIF" width="400" align="right"> 
 
-
-- 🎓 Pursuing B.Tech. in Computer Science Engineering from Vellore Institute of Technology, Vellore.
+- 🎓 Pursuing B.Tech. in Computer Science Engineering <br>from Vellore Institute of Technology, Vellore.
 
 - 🔭 I’m currently working on **new projects**
 
@@ -51,7 +51,10 @@
 
   </tr>
 </table>
-
+<h3 align="left">GitHub Trophies 🏆</h3>
+  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alok27a" alt="alokmathur" /></a> </p>
+  
 # Productivity Stats📈:
 <table>
   <tr>
@@ -65,4 +68,3 @@
 
 
 <br> 
-  
