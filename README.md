@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **alok27a@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me 🔗</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alok-mathur-5aab4534" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alok-mathur-5aab4534" /></a>
 <a href="mailto:alok27a@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center"/></a>
