@@ -39,7 +39,7 @@
 
 </p>
 
-# Github Activity📊:
+# Github Activity 📊
 
 <table>
   <tr>
@@ -55,7 +55,7 @@
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alok27a" alt="alokmathur" /></a> </p>
   
-# Productivity Stats📈:
+# Productivity Stats 📈
 <table>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alok27a&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
