@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alok Mathur</h1>
 <h3 align="center">A passionate frontend web developer💻,android app developer📱& coding enthusiast 👨‍<br> Always keen to learn new things📚</h3>
-<img src="https://user-images.githubusercontent.com/73957024/136321450-6c2dcead-f0ce-420b-a034-b57d96a3b376.gif" alt="Coder GIF" width="400" align="right"> 
 
 - 🎓 Pursuing B.Tech. in Computer Science Engineering <br>from Vellore Institute of Technology, Vellore
 
@@ -38,33 +37,3 @@
 
 
 </p>
-
-# Github Activity 📊
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=alok27a&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok27a&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
-   </tr> 
-   <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=alok27a&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
-
-  </tr>
-</table>
-<h3 align="left">GitHub Trophies 🏆</h3>
-  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alok27a" alt="alokmathur" /></a> </p>
-  
-# Productivity Stats 📈
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alok27a&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
-   </tr> 
-   <tr>
-      <td><img src="https://activity-graph.herokuapp.com/graph?username=alok27a&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
-  </td>
-  </tr>
-</table>
-
-
-<br> 
