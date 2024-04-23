@@ -1,5 +1,5 @@
 <h1 >Hi, I'm <a href='https://prasoonsoni.com' target='_blank'>Alok Mathur</a> </h1>
-I'm a developer with a demonstrated ability to deliver solutions to real-world problems. I'm skilled in **Full Stack Web Development** I like learning new things I'm enthusiastic and a curious person. I mainly code in JavaScript, Python & C++. I'm interested in expanding my knowledge in the fields of Machine Learning, Artificial Intelligence, and Blockchain. I'm a fast learner, actively engaged in learning multiple domains. I love to take part in Hackathons and win them. I'm open to collaborating on projects and being part of communities that empower individuals to learn technology. If you have any doubts or want to discuss hackathons, projects, or anything regarding my domain I'll be very happy to help you out.
+I'm currently working at CERN Geneva, Switzerland as a Technical Student Intern. I'm skilled in **Full Stack Web Development** I like learning new things I'm enthusiastic and a curious person. I mainly code in JavaScript, Python & C++. I'm interested in expanding my knowledge in the fields of Machine Learning, Artificial Intelligence, and Blockchain. I'm a fast learner, actively engaged in learning multiple domains. I love to take part in Hackathons and win them. I'm open to collaborating on projects and being part of communities that empower individuals to learn technology. If you have any doubts or want to discuss hackathons, projects, or anything regarding my domain I'll be very happy to help you out.
 <hr>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/alok?label=Follow)](https://twitter.com/alok27a)
@@ -10,7 +10,7 @@ I'm a developer with a demonstrated ability to deliver solutions to real-world p
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/alok27a/)
 [![Codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/alok27a)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=badge&logo=About.me&logoColor=white)](https://showcase.alok.studio/)
-![Visitors](https://komarev.com/ghpvc/?username=your-github-alok27a&color=blue&style=badge&label=Visitors)
+![Visitors](https://komarev.com/ghpvc/?username=your-github-prasoonsoni&color=blue&style=badge&label=Visitors)
 
 
 
