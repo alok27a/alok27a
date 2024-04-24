@@ -1,4 +1,5 @@
-<h1 >Hi, I'm <a href='https://showcase.alok.studio' target='_blank'>Alok Mathur</a> </h1>
+![image](https://github.com/alok27a/alok27a/assets/73957024/562753a5-dec6-4859-9ddc-07b70ec0418c)
+<h1>Hi, I'm <a href='https://showcase.alok.studio' target='_blank'>Alok Mathur</a> </h1>
 I'm currently working at CERN Geneva, Switzerland as a Technical Student Intern. I'm skilled in Full Stack Web Development I like learning new things I'm enthusiastic and a curious person. I mainly code in JavaScript, Python & C++. I'm interested in expanding my knowledge in the fields of Machine Learning, Artificial Intelligence, and Blockchain. I'm a fast learner, actively engaged in learning multiple domains. I love to take part in Hackathons and win them. I'm open to collaborating on projects and being part of communities that empower individuals to learn technology. If you have any doubts or want to discuss hackathons, projects, or anything regarding my domain I'll be very happy to help you out.
 <hr>
 
